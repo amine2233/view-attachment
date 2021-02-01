@@ -42,3 +42,4 @@ class ViewController: UIViewController {
 ## Example
 
 <img src="./assets/ScreenShot.png" width="300" />
+<img src="./assets/ScreenShot-2.png" width="300" />

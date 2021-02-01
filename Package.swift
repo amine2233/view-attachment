@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "ViewAttachment",
+    name: "view-attachment",
     platforms: [
         .iOS(.v13), .tvOS(.v13), .watchOS(.v6)
     ],
